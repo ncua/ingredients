@@ -1,2 +1,3 @@
 # ingredients
-React component library
+
+React component library and style guide.

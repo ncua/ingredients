@@ -1,0 +1,40 @@
+{
+  "name": "ingredients",
+  "version": "0.1.0",
+  "description": "React component library and style guide.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "storybook": "start-storybook -p 6006",
+    "build-storybook": "build-storybook"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ncua/ingredients.git"
+  },
+  "keywords": [
+    "react",
+    "components",
+    "style",
+    "guide",
+    "pattern",
+    "library"
+  ],
+  "author": "Nicole Cua",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ncua/ingredients/issues"
+  },
+  "homepage": "https://github.com/ncua/ingredients#readme",
+  "dependencies": {
+    "react": "16.13.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.9.6",
+    "@storybook/addon-actions": "^5.3.18",
+    "@storybook/addon-links": "^5.3.18",
+    "@storybook/addons": "^5.3.18",
+    "@storybook/react": "^5.3.18",
+    "babel-loader": "^8.1.0"
+  }
+}
